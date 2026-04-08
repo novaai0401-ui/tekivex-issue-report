@@ -12,7 +12,7 @@ body:
         - Analytics Studio
         - PDF Toolkit
         - DataFlow
-        - Other
+        - Tekivex UI
     validations:
       required: true
 
